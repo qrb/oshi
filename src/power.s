@@ -3,6 +3,7 @@
 	.section .text
 
 	.globl _start
+	.globl power
 
 _start:
 	pushl $3
